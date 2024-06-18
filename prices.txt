@@ -1,0 +1,1 @@
+Maida,35\nCornflour,45\nRiceflour,50\nChillipowder,10\nGarammasala,15\nBiscuits,30\nMagiee,12\nReadymadechappathi,75\nChocolates,25\nTomatosauce,100\nChillisauce,125\nSoyasauce,115\nBuds,20\nSoap,55\nShampoo,60\nCheese,45
